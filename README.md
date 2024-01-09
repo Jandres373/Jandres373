@@ -1,5 +1,5 @@
 
-<div align="center">
+
 ### Hi there 👋
 # Bienvenido a mi Perfil de GitHub 🚀
 
@@ -25,7 +25,6 @@ Estadísticas de GitHub
 </div>
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
-</div>
 <!--
 **Jandres373/Jandres373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
