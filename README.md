@@ -1,3 +1,5 @@
+
+<div align="center">
 ### Hi there 👋
 # Bienvenido a mi Perfil de GitHub 🚀
 
@@ -17,11 +19,13 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 - **Base de Datos:** [PosgreSql, MySQL, SQLite, MongoDB].
 - **Herramientas de Desarrollo:** [VSC, Git, Github].
 
-## Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jandres373&show_icons=true&count_private=true&theme=radical)](https://github.com/Jandres373)
-
+Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jandres373&show_icons=true&count_private=true&theme=radical" alt="Estadísticas de GitHub de Julián">
+</div>
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
+</div>
 <!--
 **Jandres373/Jandres373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
