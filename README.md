@@ -23,6 +23,39 @@ Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jandres373&show_icons=true&count_private=true&theme=radical" alt="Estadísticas de GitHub de Julián">
 </div>
+
+<div align="center">
+
+# Tecnologías y Herramientas
+Aquí algunas de las tecnologías con las que trabajo:
+
+- **Lenguajes de Programación:** 
+  - <img src="url-del-icono-javascript" alt="JavaScript" width="20"/> JavaScript
+  - <img src="url-del-icono-typescript" alt="TypeScript" width="20"/> TypeScript
+  - <img src="url-del-icono-python" alt="Python" width="20"/> Python
+- **Frontend:** 
+  - <img src="url-del-icono-react" alt="React" width="20"/> React con Next.js
+  - <img src="url-del-icono-angular" alt="Angular" width="20"/> Angular
+- **Backend:** 
+  - <img src="url-del-icono-nodejs" alt="Node.js" width="20"/> Node.js con Nest
+- **Base de Datos:** 
+  - <img src="url-del-icono-postgresql" alt="PosgreSQL" width="20"/> PosgreSQL
+  - <img src="url-del-icono-mysql" alt="MySQL" width="20"/> MySQL
+  - <img src="url-del-icono-mongodb" alt="MongoDB" width="20"/> MongoDB
+- **Herramientas de Desarrollo:** 
+  - <img src="url-del-icono-vscode" alt="Visual Studio Code" width="20"/> Visual Studio Code
+  - <img src="url-del-icono-git" alt="Git" width="20"/> Git
+  - <img src="url-del-icono-github" alt="GitHub" width="20"/> GitHub
+
+</div>
+
+<div align="center">
+
+# Contribuciones en GitHub
+[![Sourcerer](https://img.shields.io/badge/Sourcerer-Jandres373-blue)](https://sourcerer.io/jandres373)
+
+</div>
+
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
 <!--
