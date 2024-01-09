@@ -1,58 +1,41 @@
 
 
-### Hi there 👋
-# Bienvenido a mi Perfil de GitHub 🚀
+# ¡Hola, soy Julián! 👋
+## Bienvenido a mi Rincón de Desarrollo 🚀
 
-¡Hola! Soy Julian, un apasionado desarrollador web con sede en Colombia. Actualmente, estoy inmerso en el mundo del desarrollo web y disfruto enfrentando nuevos desafíos.
+¡Hola! Soy Julián, un apasionado desarrollador web con sede en Colombia. Me encanta enfrentar nuevos desafíos y estoy inmerso en el fascinante mundo del desarrollo web.
 
 ## Acerca de mí
 - 🌱 Actualmente estoy aprendiendo [Bun].
-- 💡 Me encanta aprender y estar al tanto de las últimas tendencias tecnológicas.
-- 🔭 Estoy trabajando en [CoCode 2.0].
+- 💡 Siempre buscando aprender y estar al tanto de las últimas tendencias tecnológicas.
+- 🔭 Trabajando en llevar [CoCode 2.0] al siguiente nivel.
 
 ## Tecnologías y Herramientas
-Aquí hay algunas de las tecnologías con las que trabajo:
+Aquí tienes un vistazo a algunas de las tecnologías que manejo:
 
-- **Lenguajes de Programación:** [JavaScript,TypeScript,Python].
-- **Frontend:** [React con Next.js, Angular].
-- **Backend:** [Node.js con Nest].
-- **Base de Datos:** [PosgreSql, MySQL, SQLite, MongoDB].
-- **Herramientas de Desarrollo:** [VSC, Git, Github].
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF?logo=javascript&logoColor=ddc508&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-FFF?logo=typescript&logoColor=3178C6&style=flat) ![Python](https://img.shields.io/badge/Python-FFF?logo=python&logoColor=306998&style=flat)
 
-Estadísticas de GitHub
+### Frontend
+![React con Next.js](https://img.shields.io/badge/React_with_Next.js-FFF?logo=react&logoColor=61DAFB&style=flat) ![Angular](https://img.shields.io/badge/Angular-FFF?logo=angular&logoColor=DD0031&style=flat)
+
+### Backend
+![Node.js con Nest](https://img.shields.io/badge/Node.js_with_Nest-FFF?logo=node.js&logoColor=339933&style=flat)
+
+### Base de Datos
+![PosgreSQL](https://img.shields.io/badge/PosgreSQL-FFF?logo=postgresql&logoColor=336791&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-FFF?logo=mysql&logoColor=4479A1&style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-FFF?logo=mongodb&logoColor=47A248&style=flat)
+
+### Herramientas de Desarrollo
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-FFF?logo=visual-studio-code&logoColor=007ACC&style=flat) ![Git](https://img.shields.io/badge/Git-FFF?logo=git&logoColor=F05032&style=flat) ![GitHub](https://img.shields.io/badge/GitHub-FFF?logo=github&logoColor=181717&style=flat)
+
+## Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jandres373&show_icons=true&count_private=true&theme=radical" alt="Estadísticas de GitHub de Julián">
 </div>
 
-
-# Tecnologías y Herramientas
-Aquí algunas de las tecnologías con las que trabajo:
-
-**Lenguajes de Programación:** 
-<img src="https://th.bing.com/th/id/OIP.I5XOh9o_kbTNsXnsIc53aAHaHa?rs=1&pid=ImgDetMain" alt="JavaScript" width="20"/> JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="20"/> TypeScript
-<img src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1" alt="Python" width="20"/> Python
-**Frontend:**
-<img src="https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg" alt="React" width="20"/> React con Next.js
-<img src="https://th.bing.com/th/id/R.09af26effa4f2999663f96e00bb51f0a?rik=rlTKWrK8D1DPpg&pid=ImgRaw&r=0" alt="Angular" width="20"/> Angular
-**Backend:**
-<img src="url-del-icono-nodejs" alt="Node.js" width="20"/> Node.js con Nest
-**Base de Datos:** 
-<img src="url-del-icono-postgresql" alt="PosgreSQL" width="20"/> PosgreSQL
-<img src="url-del-icono-mysql" alt="MySQL" width="20"/> MySQL
-<img src="url-del-icono-mongodb" alt="MongoDB" width="20"/> MongoDB
-**Herramientas de Desarrollo:** 
-<img src="url-del-icono-vscode" alt="Visual Studio Code" width="20"/> Visual Studio Code
-<img src="url-del-icono-git" alt="Git" width="20"/> Git
-<img src="url-del-icono-github" alt="GitHub" width="20"/> GitHub
-
-
-<div align="center">
-
-# Contribuciones en GitHub
+## Contribuciones en GitHub
 [![Sourcerer](https://img.shields.io/badge/Sourcerer-Jandres373-blue)](https://sourcerer.io/jandres373)
 
-</div>
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
 
