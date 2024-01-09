@@ -1,12 +1,18 @@
-# Hello, I'm Julian! 👋
+# Hi there!!! 👋
 ## Welcome to My Development Hub 🚀
 
-Hello! I'm Julian, a passionate web developer based in Colombia. I love taking on new challenges, and I'm deeply immersed in the fascinating world of web development.
+Hey there! I'm Julian, a passionate anthropologist and web developer based in Colombia.
+
+What's my current goal? Adding a neuro-cultural twist to development, ensuring digital solutions are not just techy but also human-friendly and adaptable.
+
+And what's on the horizon? Well, I'm all about diving into the intricacies of the human mind and, simultaneously, riding the waves of Machine Learning. That's why I'm on a mission to blend AI and Anthropology, creating a holistic human/virtual experience in this digital era.
+
+🚀 Welcome to the fun side of code and culture! 😎 Where cables meet neurons.
 
 ## About Me
-- 🌱 Currently learning [Bun].
-- 💡 Always eager to learn and stay updated on the latest technological trends.
-- 🔭 Working on elevating [CoCode 2.0] to the next level.
+- 💡 Always eager to learn and stay updated on the latest technological trends and bio-cultural debates.
+- 🌱 Currently learning [Bun, Tensor Flow].
+- 🔭 Working on elevating [CoCode] to the next level.
 
 ## Technologies and Tools
 Here's a glimpse of some technologies I work with:
